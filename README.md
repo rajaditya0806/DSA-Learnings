@@ -1,4 +1,4 @@
-Data Structures & Algorithms Journey
+## Data Structures & Algorithms Journey
 
 Hi there! 👋
 
