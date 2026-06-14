@@ -1,0 +1,11 @@
+⚡ The Definition of Hashing
+In order to optimize our algorithms, we use a technique called Hashing. If we define hashing in the simplest, most naive way, it is just the combination of two basic steps:
+
+Pre-storing the data.
+
+Fetching the data when needed.
+
+💡 Crucial Point to Remember (Memory Limitations)
+You may encounter problems where the maximum array element is extremely large, such as 10⁹.
+
+Theoretically, to hash this using a basic frequency array, we would need to declare an array of size 10⁹ + 1. However, we cannot do so in practice because it would exceed the strict memory limits allocated to our program. (This is where more advanced hashing structures, like hash maps, come into play!)
